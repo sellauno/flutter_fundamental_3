@@ -15,3 +15,6 @@ Saat menggunakan onDoubleTap maka counter akan bertambah setiap kali klik dua ka
 ### 3. onLongPress
 Saat menggunakan onDoubleTap maka counter akan bertambah setiap kali klik lama pada gambar
 ![Screenshot hello_world](images/18-03.png)
+
+## Praktikum 1
+![Screenshot hello_world](images/18-04.png)
