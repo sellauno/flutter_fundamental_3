@@ -16,5 +16,9 @@ Saat menggunakan onDoubleTap maka counter akan bertambah setiap kali klik dua ka
 Saat menggunakan onDoubleTap maka counter akan bertambah setiap kali klik lama pada gambar
 ![Screenshot hello_world](images/18-03.png)
 
-## Praktikum 1
+## Praktikum 2
 ![Screenshot hello_world](images/18-04.png)
+
+## Praktikum 3
+Inputan hanya dapat berupa angka. APabila diketikkan huruf, maka tidak akan tampil di layar
+![Screenshot hello_world](images/18-05.png)
